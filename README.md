@@ -1,4 +1,4 @@
-Crashes with the following on d3d12 only. Windows 10 (up to date), rx 6700xt, on 26.3.1 (latest as of this commit)
+Crashes with the following on d3d12 only (works on vulkan). Windows 10 (up to date), rx 6700xt, on 26.3.1 (latest as of this commit). Godot version 4.6.1.stable.official [14d19694e]
 
 ```
 E 0:00:00:571   pipeline.gd:12 @ _ready(): Create(Compute)PipelineState failed with error 0x80070057.
