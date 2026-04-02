@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cfrjkfsslc047"]
+
+[ext_resource type="Script" uid="uid://clxemwj1nlcoa" path="res://pipeline.gd" id="1_ig7tw"]
+
+[node name="Node3D" type="Node3D" unique_id=1293302998]
+script = ExtResource("1_ig7tw")
